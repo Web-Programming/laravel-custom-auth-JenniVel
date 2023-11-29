@@ -19,7 +19,7 @@ class AkunSeeder extends Seeder
             [
                 'username'=>'admin',
                 'name'=>'AkunAdmin',
-                'email'=>'admin@gmail.com',
+                'email'=>'jennifervelensiasantoti_2226250014@mhs.mdp.ac.id',
                 'level'=>'admin',
                 'password'=>Hash::make('123456')
             ],
